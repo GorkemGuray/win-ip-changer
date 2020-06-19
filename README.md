@@ -8,4 +8,4 @@
 
 
 
-![Örnek](https://media.giphy.com/media/hTfwfAcQGJ22wkSNt3/giphy.gif)
+![Örnek](https://media.giphy.com/media/hTfwfAcQGJ22wkSNt3/giphy.gif | width=100)
