@@ -1,8 +1,6 @@
 # Windows IP Changer
 
-**Programın amacı**  bilgisayarınızın local ip adresi dinamikse
-
- statiğe, statikse dinamiğe çevirmektir. Bilgisayarınızla özel ip gerektiren bir cihaza bağlanırken DHCP'yi etkinleştirerek internete çıkmanızı kolaylaştırmak için yazılmıştır (*veya tam tersi olarak DHCP etkinken özel ip aralığına geçmek için)*.
+**Programın amacı**  bilgisayarınızın local ip adresi dinamikse statiğe, statikse dinamiğe çevirmektir. Bilgisayarınızla özel ip gerektiren bir cihaza bağlanırken DHCP'yi etkinleştirerek internete çıkmanızı kolaylaştırmak için yazılmıştır (*veya tam tersi olarak DHCP etkinken özel ip aralığına geçmek için)*.
 
 
 
@@ -10,4 +8,4 @@
 
 
 
-![](https://media.giphy.com/media/hTfwfAcQGJ22wkSNt3/giphy.gif)
+![Örnek](https://media.giphy.com/media/hTfwfAcQGJ22wkSNt3/giphy.gif)
